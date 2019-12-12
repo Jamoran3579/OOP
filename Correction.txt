@@ -1,0 +1,1 @@
+The only error with my code is that instead of having a try except where the user enters their input I compare their input to a string of nnumbers

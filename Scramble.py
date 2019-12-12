@@ -1,6 +1,6 @@
 import random
 i = 1
-sentence = input("Please enter a word to be scrambled")
+sentence = input("Please enter a sentence to be scrambled")
 print(sentence)
 position1 = 0
 position2 = 0
